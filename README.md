@@ -48,6 +48,12 @@ The model successfully predicts car prices with reasonable accuracy using regres
 
 ---
 
+**📷 Visualizations**
+
+<img width="974" height="716" alt="Screenshot 2026-06-10 150522" src="https://github.com/user-attachments/assets/e6c50f0f-8252-44f4-a511-1a78b56f4d0e" />
+
+---
+
 **🧠 Conclusion**
 
 Machine learning helps in estimating car prices based on real-world features, making it useful for automotive market analysis.
